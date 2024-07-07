@@ -1,0 +1,1 @@
+wget -O hw2_1_ckpt.pth https://www.dropbox.com/scl/fi/pa2uw44i8csid8c3k9ccs/hw2_1_ckpt.pth?rlkey=tnk7wzhyr8m83h0rpd8ocnnyz&dl=1
